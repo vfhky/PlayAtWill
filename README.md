@@ -7,4 +7,4 @@ PlayAtWill
 
 
 ##### 教程和反馈
-插件使用教程和反馈地址：[音乐播放器PlayAtWill for typecho插件（移植自wordpress）](http://www.typecodes.com/web/typechomp3player.html '音乐播放器PlayAtWill for typecho插件（移植自wordpress）')。
+插件使用教程和反馈地址：[音乐播放器PlayAtWill for typecho插件（移植自wordpress）](https://typecodes.com/web/typechomp3player.html '音乐播放器PlayAtWill for typecho插件（移植自wordpress）')。
